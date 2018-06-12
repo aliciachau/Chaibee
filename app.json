@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "chaibee",
+    "description": "In Memory of Frankie~ 2015",
+    "slug": "chaibee",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/images/frankie_broc.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
